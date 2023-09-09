@@ -2,7 +2,7 @@
 
 Meu nome é Marcelo Cobianchi 
 
-- Sou Físico e estudande de Análise de Sistemas 
+- Sou Físico e estudande de Eng. de Software 
 - Utilizo esse espaço para Minha Organização e desenvolvimento/compartilhamento de meus projetos em T.I 🕷️💻
 
 ![](https://media.tenor.com/CiyA7Q2MmZIAAAAC/the-simpson-simpson.gif)
